@@ -6,6 +6,8 @@ env/
 venv/
 .env
 
+traffic.json
+
 # Playwright 與自動化測試
 .pytest_cache/
 .coverage
